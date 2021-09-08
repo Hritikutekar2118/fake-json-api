@@ -83,8 +83,5 @@
       }
     ],
     "base_url": "http://agrodev.in/testing/AdminMedia/upload/status_images/"
-  },
-  "status": true,
-  "message": "Status list found",
-  "error_code": 0
+  }
 }
