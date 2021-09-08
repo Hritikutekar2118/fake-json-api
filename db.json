@@ -1,0 +1,90 @@
+{
+  "data": {
+    "unseen_status": {
+      "media_type": "image",
+      "id": 1094,
+      "status_name": "new status",
+      "status_img": "1630991828202109071047080.png",
+      "total_img_count": 2,
+      "seen_count": 1,
+      "status_list": [
+        {
+          "id": 1138,
+          "status_id": 1094,
+          "img_caption": "new",
+          "status_img": "1630991828202109071047080.png",
+          "status_start_date": "2021-09-07 10:47:08",
+          "status_expire_date": "2021-09-09 10:47:08"
+        },
+        {
+          "id": 1139,
+          "status_id": 1094,
+          "img_caption": "old",
+          "status_img": "1630991828202109071047081.png",
+          "status_start_date": "2021-09-07 10:47:08",
+          "status_expire_date": "2021-09-09 10:47:08"
+        }
+      ]
+    },
+    "seen_status": [
+      {
+        "media_type": "image",
+        "id": 1097,
+        "status_name": "Moon",
+        "status_img": "1631040303202109081215030.jpg",
+        "total_img_count": 1,
+        "seen_count": 1,
+        "status_list": [
+          {
+            "id": 1142,
+            "status_id": 1097,
+            "img_caption": "To the moon",
+            "status_img": "1631040303202109081215030.jpg",
+            "status_start_date": "2021-09-08 00:15:04",
+            "status_expire_date": "2021-09-10 00:15:03"
+          }
+        ]
+      },
+      {
+        "media_type": "image",
+        "id": 1096,
+        "status_name": "Taj Mahal",
+        "status_img": "1631040267202109081214270.jpeg",
+        "total_img_count": 1,
+        "seen_count": 1,
+        "status_list": [
+          {
+            "id": 1141,
+            "status_id": 1096,
+            "img_caption": "",
+            "status_img": "1631040267202109081214270.jpeg",
+            "status_start_date": "2021-09-08 00:14:27",
+            "status_expire_date": "2021-09-10 00:14:27"
+          }
+        ]
+      },
+      {
+        "media_type": "image",
+        "id": 1095,
+        "status_name": "Sunset tree",
+        "status_img": "1631040239202109081213590.jpg",
+        "total_img_count": 1,
+        "seen_count": 1,
+        "status_list": [
+          {
+            "id": 1140,
+            "status_id": 1095,
+            "img_caption": "",
+            "status_img": "1631040239202109081213590.jpg",
+            "status_start_date": "2021-09-08 00:13:59",
+            "status_expire_date": "2021-09-10 00:13:59"
+          }
+        ]
+      }
+    ],
+    "base_url": "http://agrodev.in/testing/AdminMedia/upload/status_images/"
+  },
+  "status": true,
+  "message": "Status list found",
+  "error_code": 0
+}
